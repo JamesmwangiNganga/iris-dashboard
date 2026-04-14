@@ -1,0 +1,3 @@
+Iris Interactive Dashboard is an interactive data analytics project built with Python, Streamlit, Plotly, Pandas, and Scikit-learn using the well-known Iris dataset. The application enables users to filter flower species, compare features through dynamic visualizations, and analyze data trends using real-time charts and summary metrics.
+
+This project demonstrates practical skills in data cleaning, exploratory data analysis (EDA), dashboard development, and data visualization. It is ideal for learners, recruiters, and anyone interested in seeing how machine learning datasets can be transformed into user-friendly analytical dashboards.
